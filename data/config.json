@@ -6,6 +6,7 @@
     "Northeast": 1.0,
     "South": 1.1,
     "Midwest": 1.15,
-    "West": 1.3
+    "West": 1.3,
+    "Transylvania": 1.5
   }
 }
