@@ -1,0 +1,21 @@
+========================================
+       SHIPPING TARIFF REPORT
+========================================
+
+Request ID : REQ-001
+Route      : Dover -> Los Angeles
+Distance   : 3819.82 km
+Cost       : $2886.35
+----------------------------------------
+Request ID : REQ-002
+Route      : New York -> Chicago
+Distance   : 1144.29 km
+Cost       : $197.39
+----------------------------------------
+Request ID : REQ-003
+Route      : Miami -> Seattle
+Distance   : 4396.10 km
+Cost       : $7072.22
+----------------------------------------
+Total Cost : $10155.96
+========================================

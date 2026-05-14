@@ -1,0 +1,11 @@
+{
+  "base_rate_per_kg": 2.5,
+  "express_multiplier": 1.5,
+  "fragile_multiplier": 1.2,
+  "regions": {
+    "Northeast": 1.0,
+    "South": 1.1,
+    "Midwest": 1.15,
+    "West": 1.3
+  }
+}
